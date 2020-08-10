@@ -3,3 +3,5 @@
 ## 3rd test
 ### 4th test
 - deploy test failed - retesting
+- CD build created in jenkins - will triger after ci build is successful
+
