@@ -39,4 +39,5 @@ sudo cp /home/ubuntu/environment/nginx.default /etc/nginx/sites-available/defaul
 
 # finally, restart the nginx service so the new config takes hold
 sudo nginx -t
+sudo apt-get update -y
 sudo systemctl restart nginx
